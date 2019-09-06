@@ -2,3 +2,8 @@ proficiency
 malicious
 miscellaneous
 nautilus
+concatenate
+annotate
+discrepancy
+epoch
+calibrate
